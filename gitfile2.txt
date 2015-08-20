@@ -1,1 +1,3 @@
 This is the first line - Rick Jones
+
+This is the second line, after the clone - Rick Jones
